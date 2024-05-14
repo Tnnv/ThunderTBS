@@ -1,0 +1,23 @@
+{
+    "guid": "{3244b22d-1ca6-4591-89ce-8fc635db1cc9}",
+    "md5": "{5455e7ee-35ce-a63c-c119-b951b840a161}",
+    "settings": {
+        "Compress_Animation": 1,
+        "Custom_Scale": 0.009999999776482582,
+        "Import_Animation": true,
+        "Import_Color": true,
+        "Import_Normals": true,
+        "Position_Error": 0.5,
+        "Rotation_Error": 0.5,
+        "Scale_Error": 0.5,
+        "Use_Custom_Scale": false
+    },
+    "subitems": {
+        "Sphere": [
+            "{dd6beb12-29ed-4d12-88dd-94f09c33532d}",
+            50
+        ]
+    },
+    "type": 68,
+    "version": 8
+}

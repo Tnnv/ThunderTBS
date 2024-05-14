@@ -1,0 +1,27 @@
+<document version="13">
+    <graph>
+        <nodes>
+            <node index="1" type="TextureSample" y="-239" x="-649">
+                <value name="Texture" type="Template">{37d616d5-6f54-45c0-9405-d6f307e1b44b}, Texture</value>
+            </node>
+            <node index="2" type="TextureSample" y="140" x="-609">
+                <value name="Texture" type="Template">{c9bdd4a0-cd9c-41d2-882b-029bf89c571e}, Texture</value>
+            </node>
+            <node index="3" type="TextureSample" y="319" x="-539">
+                <value name="Texture" type="Template">{a1969cfb-25b1-4c60-a62a-a564b9d43518}, Texture</value>
+            </node>
+        </nodes>
+        <links>
+            <link sender="1" receiver="0" out="0" in="0"/>
+            <link sender="2" receiver="0" out="0" in="2"/>
+            <link sender="3" receiver="0" out="1" in="4"/>
+        </links>
+    </graph>
+    <user>
+        <type value="Surface"/>
+        <model value="Lit"/>
+        <side value="false"/>
+        <wireframe value="false"/>
+        <depth write="true" comp="Less" test="true"/>
+    </user>
+</document>

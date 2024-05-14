@@ -1,0 +1,49 @@
+[
+    {
+        "Continuous": true,
+        "Distribution": 50,
+        "Functions": [
+            {
+                "Class": "Velocity",
+                "Min": {
+                    "Vector4": [
+                        0,
+                        0,
+                        10,
+                        0
+                    ]
+                },
+                "Type": 0
+            },
+            {
+                "Class": "StartSize",
+                "Min": {
+                    "Vector4": [
+                        1,
+                        1,
+                        1,
+                        0
+                    ]
+                },
+                "Type": 0
+            },
+            {
+                "Class": "Lifetime",
+                "Min": {
+                    "Vector4": [
+                        0.20000000298023224,
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "Type": 0
+            }
+        ],
+        "Gpu": false,
+        "Local": true,
+        "Material": "{f52a3194-ef6f-4612-85c2-dd457c7cc65b}",
+        "Mesh": ".embedded/plane.fbx/Plane001",
+        "Name": "ProjectileTrail"
+    }
+]

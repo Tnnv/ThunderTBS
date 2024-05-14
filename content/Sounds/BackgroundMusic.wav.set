@@ -1,0 +1,17 @@
+{
+    "guid": "{16e0fc8b-9d90-4586-8195-e21367f84ab7}",
+    "md5": "{2e9eca6e-d61f-1509-c6fc-1ec5b9f41cf2}",
+    "settings": {
+        "Force_Mono": false,
+        "Quality": 1,
+        "Streamed": false
+    },
+    "subitems": {
+        "stream": [
+            "{19566598-caee-4a98-a7c8-abbf16b5aaf8}",
+            0
+        ]
+    },
+    "type": 178,
+    "version": 1
+}

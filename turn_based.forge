@@ -1,0 +1,12 @@
+{
+    "Company_Name": "my_company",
+    "First_Map": "",
+    "ProjectId": "{5fd5f690-c192-4900-9b9a-b5eb750d9a61}",
+    "ProjectSdk": "2024.2",
+    "Project_Name": "turn_based",
+    "Project_Version": "0.01",
+    "modules": [
+    ],
+    "platforms": [
+    ]
+}

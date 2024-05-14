@@ -1,0 +1,37 @@
+{
+    "guid": "{76870ff8-210f-4c2f-bb49-a585cd7f463f}",
+    "md5": "{c368bc10-fcdb-b9d5-e823-85ceb86193ad}",
+    "settings": {
+        "Filtering": 0,
+        "MIP_maping": false,
+        "Type": 2,
+        "Wrap": 1
+    },
+    "subitems": {
+        "Background": [
+            "{1a84b11a-2ccc-4a6b-928f-2c1691bb3514}",
+            50,
+            {
+                "data": {
+                    "b": 15,
+                    "h": 139,
+                    "l": 15,
+                    "pivotX": 0.5,
+                    "pivotY": 0.5,
+                    "r": 15,
+                    "t": 15,
+                    "w": 386,
+                    "x": -61,
+                    "y": 21
+                },
+                "type": 0
+            }
+        ],
+        "_Page1": [
+            "{a6056a95-99ab-4ff2-a89f-0c6933e441c8}",
+            46
+        ]
+    },
+    "type": 54,
+    "version": 8
+}

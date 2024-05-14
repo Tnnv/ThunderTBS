@@ -1,0 +1,100 @@
+[
+	[
+		"Actor",
+		-1787165907,
+		1598637983,
+		"Prefab",
+		{
+			"enabled": true,
+			"static": false
+		},
+		[
+		],
+		{
+			"Flags": 3
+		}
+	],
+	[
+		"Transform",
+		-1336324742,
+		-1787165907,
+		"Transform",
+		{
+			"enabled": true,
+			"position": {
+				"Vector3":
+				[
+					0.000000,
+					0.000000,
+					0.000000
+				]
+			},
+			"quaternion": {
+				"Quaternion":
+				[
+					0.000000,
+					0.000000,
+					0.000000,
+					1.000000
+				]
+			},
+			"rotation": {
+				"Vector3":
+				[
+					0.000000,
+					0.000000,
+					0.000000
+				]
+			},
+			"scale": {
+				"Vector3":
+				[
+					1.000000,
+					1.000000,
+					1.000000
+				]
+			}
+		},
+		[
+		],
+		{
+		}
+	],
+	[
+		"MeshRender",
+		1993182125,
+		-1787165907,
+		"MeshRender",
+		{
+			"enabled": true
+		},
+		[
+		],
+		{
+			"Material": [
+				"{280d7488-d9d3-4e25-9757-3a0ef4aee27b}"
+			],
+			"Mesh": "{a806bcbe-8d7e-4932-b609-93cec3a95a98}",
+			"mesh": "{a806bcbe-8d7e-4932-b609-93cec3a95a98}"
+		}
+	],
+	[
+		"AngelBehaviour",
+		-1854638859,
+		-1787165907,
+		"UnitLogic",
+		{
+			"enabled": true,
+			"script": "UnitLogic"
+		},
+		[
+		],
+		{
+			"baseWidgetRef": 0,
+			"projectilePrefab": "{fd9afe66-1e33-4868-896a-b94334f7edc9}",
+			"team": 0,
+			"widgetPrefab": "{2548d86f-6dd3-470d-8d0b-4a95a5e3e172}",
+			"widgetRef": 0
+		}
+	]
+]

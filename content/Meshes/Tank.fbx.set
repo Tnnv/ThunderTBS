@@ -1,0 +1,23 @@
+{
+    "guid": "{ea95cbd4-0363-477a-9d05-f07e3614bc52}",
+    "md5": "{34bd8693-b850-5296-203c-31253633dbdd}",
+    "settings": {
+        "Compress_Animation": 1,
+        "Custom_Scale": 0.009999999776482582,
+        "Import_Animation": true,
+        "Import_Color": true,
+        "Import_Normals": true,
+        "Position_Error": 0.5,
+        "Rotation_Error": 0.5,
+        "Scale_Error": 0.5,
+        "Use_Custom_Scale": false
+    },
+    "subitems": {
+        "Tank": [
+            "{a806bcbe-8d7e-4932-b609-93cec3a95a98}",
+            50
+        ]
+    },
+    "type": 68,
+    "version": 8
+}
