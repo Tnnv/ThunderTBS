@@ -1,6 +1,6 @@
 {
     "Company_Name": "my_company",
-    "First_Map": "",
+    "First_Map": "{44a2f81c-a438-422d-a610-8fb0a4a9a112}",
     "ProjectId": "{5fd5f690-c192-4900-9b9a-b5eb750d9a61}",
     "ProjectSdk": "2024.2",
     "Project_Name": "turn_based",
